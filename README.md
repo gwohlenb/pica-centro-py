@@ -16,12 +16,12 @@ Rules:
 * You can give up by pressing CTRL-C
 
 To Run:
-**python pica-centro.py <secret_number_length>**
+* **python pica-centro.py <secret_number_length>**
 * or
-**python3 pica-centro.py <secret_number_length>**
+* **python3 pica-centro.py <secret_number_length>**
 * where secret_number_length is optional; default is 4
 * hit CTRL-c to give up
 
 Example:
-* python pica-centro.py 6
+* **python pica-centro.py 6**
 * will run the program with a secret number of 6 digits in length
