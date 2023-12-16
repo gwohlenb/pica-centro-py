@@ -125,7 +125,7 @@ def main():
     exit()
   print("The secret number contains", secretNumberLength, "digits")
   secretNumber = generateSecretNumber(secretNumberLength)
-  print("The secret number is", secretNumber)
+  #print("The secret number is", secretNumber) FOR DEBUG PURPOSES ONLY
 
   guessCount = 0
   isSolved = False
